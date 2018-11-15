@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CPivot.cs](./CS/WindowsApplication4/CPivot.cs) (VB: [CPivot.vb](./VB/WindowsApplication4/CPivot.vb))
+* [Form1.cs](./CS/WindowsApplication4/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication4/Form1.vb))
+* [Program.cs](./CS/WindowsApplication4/Program.cs) (VB: [Program.vb](./VB/WindowsApplication4/Program.vb))
+<!-- default file list end -->
 # OBSOLETE: How to create a custom Field List for the PivotGridControl
 
 
